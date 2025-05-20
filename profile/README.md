@@ -1,6 +1,7 @@
 # PickLeTime
 Welcome to PickLeTime! This web application is designed to help users to organize and schedule their games. It is built using Javascript and uses React, Fastify for back end routing, Prisma for database management, and SQLite as the database.
 
+Live at [https://pickletime.duckdns.org](https://pickletime.duckdns.org)
 ## Features
 
 - **User Authentication:** Securely manage user accounts and ensure data privacy.
